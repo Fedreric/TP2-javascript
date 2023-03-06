@@ -9,3 +9,4 @@ for (let i = 0; i < 3; i++) {
 let indiceMayor = edades.indexOf(Math.max(...edades));
 document.write(`El mayor es ${nombres[indiceMayor]} con ${edades[indiceMayor]} años`);
 
+//no pude agregarle validaciones
