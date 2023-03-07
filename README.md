@@ -1,8 +1,8 @@
-# Trabajo practico N°1: Javascript
+# Trabajo practico N°2: Javascript
 
 ![javascript](https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg)
 
-Primer trabajo practico de javascript, cuenta con 11 puntos a desarrollar donde se ve lo mas basico del lenguaje.
+Segundo trabajo practico de javascript, cuenta con 17 puntos a desarrollar donde se fortalecen los conocimientos en bucles y algunas funciones numericas, de tipo string (math, chartAT,toLowerCase,etc) y validaciones.
 
 
 ## Requisitos ✅
@@ -16,7 +16,7 @@ Primer trabajo practico de javascript, cuenta con 11 puntos a desarrollar donde 
 ## Para clonar el repositorio 💻
 
 ```bash
-git clone https://github.com/Fedreric/TP1-Javascript.git
+git clone https://github.com/Fedreric/TP2-javascript.git
 ```
 
 ## Autor 👨‍💻
