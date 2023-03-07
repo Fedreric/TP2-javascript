@@ -7,5 +7,4 @@ do{
         bandera++;
       }
 }while(bandera === 0);
-
 document.write(cadena);

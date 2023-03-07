@@ -13,5 +13,6 @@ do{
     }else{
         alert('Ingresa un numero!');
     }
+
 }while(bandera === 0);
 

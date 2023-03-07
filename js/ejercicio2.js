@@ -38,4 +38,5 @@ do{
     }else{
         alert('Ingresa un valor numerico!');
     }
+
 }while(bandera === 0);
